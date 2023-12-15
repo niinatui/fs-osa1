@@ -1,0 +1,1 @@
+Full Stack -kurssin osan 1 tehtävien palautuskansio
